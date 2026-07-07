@@ -51,7 +51,7 @@ Personalized university notification and schedule management service.
 
 ### Clubs
 
-- **2025.08 – Present** — ZeroOne
+- **2026.01 – Present** — ZeroOne
   - Developing and operating the ZeroTime platform.
 
 - **2024.06 – 2025.06** — JBIG AI Club
