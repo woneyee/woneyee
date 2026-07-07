@@ -12,6 +12,7 @@ AI-powered code review and pull request assistant.
 
 ### JBNU Alarm App
 Personalized university notification and schedule management service.
+
 ---
 
 ## Awards
