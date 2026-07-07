@@ -2,23 +2,23 @@
 
 Backend Developer interested in scalable backend systems, platform architecture, and AI-powered services.
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🧪 Test Guardian
+### Test Guardian
 Multi-agent system for automated software test failure analysis.
 > Python · OpenAI · LangGraph
 
-### ✅ Checkmite
+### Checkmite
 AI-powered code review and pull request assistant.
 > Jupyter Notebook · Python
 
-### 🚨 JBNU Alarm App
+### JBNU Alarm App
 Personalized university notification and schedule management service.
 > TypeScript · Next.js
 
 ---
 
-## 🏆 Awards
+## Awards
 
 - 🥇 Grand Prize — JBNU SW Capstone Design Competition (AI Image Analysis Tool)
 - 🥇 Grand Prize — SW Startup Idea Competition (HomeFit)
@@ -28,7 +28,7 @@ Personalized university notification and schedule management service.
 
 ---
 
-## 🌱 Activities
+## Activities
 
 ### Open Source
 
@@ -59,7 +59,7 @@ Personalized university notification and schedule management service.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Backend**  
 Java · Spring Boot · Python · FastAPI
