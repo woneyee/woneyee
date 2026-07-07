@@ -8,7 +8,7 @@ Backend Developer interested in scalable backend systems, platform architecture,
 Multi-agent system for automated software test failure analysis.
 
 ### Checkmite
-AI-powered code review and pull request assistant.
+AI-powered reproduction & vitality analysis.
 
 ### JBNU Alarm App
 Personalized university notification and schedule management service.
