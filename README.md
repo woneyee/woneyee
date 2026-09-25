@@ -27,6 +27,8 @@ Personalized university notification and schedule management service.
 
 ## Activities
 
+
+
 ### Open Source
 
 - **2026.06** — eGovFrame VS Code Extension
@@ -45,14 +47,6 @@ Personalized university notification and schedule management service.
 
 - **2024.01 – 2024.02** — Boostcourse Coaching Study: Data Science Projects 2024
   - Participated in a 4-week data science project study program.
-
-### Clubs
-
-- **2026.01 – Present** — ZeroOne
-  - Developing and operating the ZeroTime platform.
-
-- **2024.06 – 2025.06** — JBIG AI Club
-  - Studied machine learning, deep learning, and participated in data analysis competitions.
 
 ---
 
